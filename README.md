@@ -48,3 +48,6 @@ pip install -r requirements.txt
 
     - Press the 'E' key to exit the visualization.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
