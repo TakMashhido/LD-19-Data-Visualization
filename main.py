@@ -15,7 +15,7 @@ ax = fig.add_subplot(111, projection='polar')
 ax.set_title('Lidar LD19 (exit: Key E)', fontsize=18)
 
 # Define the COM port for serial communication
-com_port = "COM5"
+com_port = "COM3"
 
 # Create an event listener for pyplot
 # 'key_press_event': event triggered by pressing a key
