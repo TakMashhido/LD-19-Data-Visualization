@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. **Connect the LIDAR Sensor:**
-   - Connect your LD19 LIDAR sensor to your computer via the specified COM port (e.g., `COM5`).
+   - Connect your LD19 LIDAR sensor to your computer via the specified COM port (e.g., `COM3`).
 
 2. **Run the Script:**
    - Use the following command to run the script:
